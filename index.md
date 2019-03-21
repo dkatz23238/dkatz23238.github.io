@@ -4,7 +4,7 @@
 
 layout: home
 ---
-{:refdef: style="text-align: center; width: 50%; display: block; margin-left: auto; margin-right: auto"}
+{:refdef: style="text-align: center; width: 20%; display: block; margin-left: auto; margin-right: auto"}
 ![logo](/assets/PNGLOGO.png){:class="img-responsive"}
 {: refdef}
 ---
