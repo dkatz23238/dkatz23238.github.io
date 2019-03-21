@@ -2,7 +2,7 @@
 layout: post
 title:  "Automation for Business wiht python"
 date:   2019-03-21 11:23:19 -0300
-categories: jekyll update
+categories: automation python
 ---
 
 Check out my linkedin article.
