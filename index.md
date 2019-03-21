@@ -5,8 +5,7 @@
 layout: home
 ---
 
-## This is a header 
-
+## Automation and AI for Business
 ---
 
 This is a text section

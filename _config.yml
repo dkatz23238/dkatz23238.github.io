@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Automation and AI for Business
-email: davidemmanuelkatz@gmail.com
+title: Cross Entropy Solutions
+email: david@crossentropy.solutions
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is run by David Katz and Lucian Ditulescu, we have been working in the 
   field of smart automation for the past 5 years and want to share the tools and expiriences 
   we have built and learned on the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dkatz23238.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: @entropy_cross
 github_username:  dkatz23238
 
 # Build settings
