@@ -16,9 +16,8 @@
 title: Automation and AI for Business
 email: david@crossentropy.solutions
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is run by David Katz and Lucian Ditulescu, we have been working in the 
-  field of smart automation for the past 5 years and want to share the tools and expiriences 
-  we have built and learned on the way.
+  This is a blog about automation and artificial intelligence applied to back-office and front-office process automation
+  We develop open tools to accelerate the automation of business processes and help organisations digitalize their operations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dkatz23238.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@entropy_cross"
