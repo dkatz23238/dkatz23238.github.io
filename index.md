@@ -5,13 +5,9 @@
 layout: home
 ---
 
-## This is a header
+## This is a header ##
 
 ![city](/assets/ba.jpg){:class="img-responsive"}
 
 Check out all the posts below
 
-~~~ python
-def myfunc(arg):
-    return do_something(arg)
-~~~
