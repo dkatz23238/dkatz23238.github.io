@@ -5,7 +5,14 @@
 layout: home
 ---
 
-## This is a header ##
+## This is a header 
+
+---
+
+This is a text section
+
+---
+
 
 ![city](/assets/ba.jpg){:class="img-responsive"}
 
