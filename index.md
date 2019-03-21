@@ -5,15 +5,13 @@
 layout: home
 ---
 
-## Automation and AI for Business
+## Cross Entropy Solutions
 ---
 
-This is a text section
+This is a blog about automation and artificial intelligence applied to back-office and front-office process automation
+We develop open tools to accelerate the automation of business processes and help organizations digitalize their operations.
 
 ---
-
-
-![city](/assets/ba.jpg){:class="img-responsive"}
 
 Check out all the posts below
 
