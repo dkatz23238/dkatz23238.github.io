@@ -8,10 +8,10 @@ layout: home
 ![logo](/assets/PNGMODELRGB.png){:class="img-responsive"}
 {: refdef}
 ---
-
+<p>
 This is a blog about automation and artificial intelligence applied to back-office and front-office process automation
 We develop open tools to accelerate the automation of business processes and help organizations digitalize their operations.
-
+</p>
 
 Check out all the posts below
 
