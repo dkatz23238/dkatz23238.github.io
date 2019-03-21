@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cross Entropy Solutions
+title: Automation and AI for Business
 email: david@crossentropy.solutions
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is run by David Katz and Lucian Ditulescu, we have been working in the 
