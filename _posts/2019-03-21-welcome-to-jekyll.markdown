@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automation for Business wiht python"
+title:  "Robotic Process Automation with Python"
 date:   2019-03-21 11:23:19 -0300
 categories: automation python
 ---
