@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is some content. Lorm Ipsum Lorem Sup
