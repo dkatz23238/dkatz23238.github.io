@@ -4,12 +4,5 @@
 
 layout: home
 ---
-&#217;% include base_path %}
 
-&LT;h3 class="archive__subtitle">Recent Posts&LT;/h3>
-
-&#217;% for post in paginator.posts %}
-&#217;% include archive-single.html %}
-&#217;% endfor %}
-
-&#217;% include paginator.html %}
+I am an RPA developer. I build tools that make it easier for business to adopt open source technology to build secure end to end process automation. God save america and goodbye.
