@@ -5,12 +5,11 @@ date:   2019-03-21 11:23:19 -0300
 categories: automation python
 ---
 
-Check out my linkedin article.
+I wrote a few lines on the current state of Robotic Process Automation and would love to hear any feedback.
 
-~~~ python
-def myfunc(arg):
-    return do_something(arg)
-~~~
+Send me an email or IM!
+
+https://medium.com/@davidkatz_73707/the-modern-enterprise-business-in-code-c6a5e0f4ed7e
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
