@@ -9,8 +9,7 @@ categories: automation python
 
 <br>
 
-
-In attempt to bring a standard open protocl for developing APIs im building a set of rules that will easily allows me to deploy RPA's in the cloud that I develop for any client, business or organization. I am in the process of building pybot-orchestrate a standard architecture that runs specific sotware that allos the orchestration of business oriented robotic process automations using pybotlib. 
+In attempt to bring a standard open protocol for developing APIs im building a set of rules that will easily allows me to deploy RPA's in the cloud that I develop for any client, business or organization. I am in the process of building pybot-orchestrate a standard architecture that runs specific software that allows the orchestration of business oriented robotic process automations using pybotlib.
 
 You can check out pybotlib [here](https://github.com/dkatz23238/pybotlib).
 
