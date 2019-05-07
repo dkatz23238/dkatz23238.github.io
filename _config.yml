@@ -26,7 +26,7 @@ linkedin_username: david-katz-30b44872
 
 # Build settings
 markdown: kramdown
-theme: midnight
+theme: Midnight
 plugins:
   - jekyll-feed
 
