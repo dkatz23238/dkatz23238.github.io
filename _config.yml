@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Automation and AI for Business
-email: david@crossentropy.solutions
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a blog about automation and artificial intelligence applied to back-office and front-office process automation
-  We develop open tools to accelerate the automation of business processes and help organisations digitalize their operations.
+title: David Katz's blog
+email: davidemmanuelkatz<at>gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Topics surrounding data science, economics, finance, and software engineering. © Copyright 2020 by David Katz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dkatz23238.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@entropy_cross"
-github_username:  "dkatz23238"
+github_username: "dkatz23238"
 linkedin_username: david-katz-30b44872
 
 # Build settings
@@ -29,7 +28,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
