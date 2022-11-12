@@ -6,11 +6,8 @@ layout: home
 ---
 
 <h2>Hello!</h2>
-<p>
-Welcome to my website.
-This is where I share bits and pieces on various topics of interest to myself and that I would like to share with the world.
-</p>
-<p>
-I have a passion for bootstraping and growing technology products. Coder and data scientist currently living in Buenos Aires. Working in product management and managing AI teams at <a href="https://humans4help.com/en/home/">H4H</a>.
-Student <i>soon to be Alumni</i> at <a href="https://ucema.edu.ar/">UCEMA</a>. 
-</p>
+<p>My name is David and this is my personal website.</p>
+<p>Currently working as CTO at <a href="https://www.smartlayers.io">Smart Layers</a> a company that automates data entry and extraction solutions.</p>
+<p>I studied business and technology at <a href="https://ucema.edu.ar/">UCEMA</a> and have been working in coding heavy jobs since 2015.</p>
+<p>I also work as a consultant, software developer, and product manager at <a href="https://www.crossentropysolutions.com/">Cross Entropy Solutions</a> where we build complex decision support software for SMEs.</p>
+<p>I also work on research topics that include machine learning, optimization, economics, and innovation.</p>

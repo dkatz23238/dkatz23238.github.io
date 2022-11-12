@@ -16,7 +16,7 @@
 title: David Katz's blog
 email: davidemmanuelkatz<at>gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Topics surrounding data science, economics, finance, and software engineering. © Copyright 2020 by David Katz
+  Topics surrounding data science, economics, finance, and software engineering. © Copyright 2022 by David Katz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dkatz23238.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@entropy_cross"
